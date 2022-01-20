@@ -6,5 +6,9 @@
 - [Introdução aos Conceitos de API e Clean Architecture](https://certificates.digitalinnovation.one/AB560B63)
 - [Lógica de Programação Essencial](https://certificates.digitalinnovation.one/08926F3A)
 - [Boas-vindas ao Bootcamp GFT Start #3 Java](https://certificates.digitalinnovation.one/3E324395)
+- [Dominando IDE Java ](https://www.dio.me/certificate/3B1E9DEF)
+- []()
+- []()
+- []()
 
 
