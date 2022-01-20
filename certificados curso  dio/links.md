@@ -1,0 +1,10 @@
+# Certificados site [DIO](https://dio.me/sign-up?ref=WDCKE2I7AM)
+
+- [Introdução ao Git/GitHub](https://certificates.digitalinnovation.one/EFEAF049)
+- [Introdução ao Ecossitema e Documentação Java](https://certificates.digitalinnovation.one/15F7E983)
+- [Aprenda o que são Estrutura de Dados e Algoritmos](https://certificates.digitalinnovation.one/B7F9950C)
+- [Introdução aos Conceitos de API e Clean Architecture](https://certificates.digitalinnovation.one/AB560B63)
+- [Lógica de Programação Essencial](https://certificates.digitalinnovation.one/08926F3A)
+- [Boas-vindas ao Bootcamp GFT Start #3 Java](https://certificates.digitalinnovation.one/3E324395)
+
+
