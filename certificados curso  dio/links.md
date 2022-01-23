@@ -9,6 +9,10 @@
 - [Dominando IDE Java ](https://www.dio.me/certificate/3B1E9DEF)
 - [Lógica Condicional e Controle de Fluxos em Java](https://certificates.digitalinnovation.one/F26ACC6B)
 - [Programação Orientada a Objetos](https://certificates.digitalinnovation.one/14793088)
-- []()
+- [Debugging Java](https://certificates.digitalinnovation.one/DC79AA53)
+- [Estruturas de Repetição e Arrays em Java]( https://certificates.digitalinnovation.one/9DAB9AB7)
+- []( )
+- []( )
+
 
 
