@@ -7,8 +7,8 @@
 - [Lógica de Programação Essencial](https://certificates.digitalinnovation.one/08926F3A)
 - [Boas-vindas ao Bootcamp GFT Start #3 Java](https://certificates.digitalinnovation.one/3E324395)
 - [Dominando IDE Java ](https://www.dio.me/certificate/3B1E9DEF)
-- []()
-- []()
+- [Lógica Condicional e Controle de Fluxos em Java](https://certificates.digitalinnovation.one/F26ACC6B)
+- [Programação Orientada a Objetos](https://certificates.digitalinnovation.one/14793088)
 - []()
 
 
