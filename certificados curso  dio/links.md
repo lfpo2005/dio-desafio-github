@@ -13,7 +13,7 @@
 - [Estruturas de Repetição e Arrays em Java]( https://certificates.digitalinnovation.one/9DAB9AB7)
 - [Introdução ao HTTP/HTTPS ](https://certificates.digitalinnovation.one/F9EAC167)
 - [Tratamento de Exceções em Java](https://certificates.digitalinnovation.one/33899799)
-- []( )
+- [Trabalhando com Collections Java](https://certificates.digitalinnovation.one/35BF9B98)
 - []( )
 - []( )
 
