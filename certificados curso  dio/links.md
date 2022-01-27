@@ -14,7 +14,7 @@
 - [Introdução ao HTTP/HTTPS ](https://certificates.digitalinnovation.one/F9EAC167)
 - [Tratamento de Exceções em Java](https://certificates.digitalinnovation.one/33899799)
 - [Trabalhando com Collections Java](https://certificates.digitalinnovation.one/35BF9B98)
-- []( )
+- [Pensamento Computacional](https://certificates.digitalinnovation.one/F1E579BD )
 - []( )
 
 
